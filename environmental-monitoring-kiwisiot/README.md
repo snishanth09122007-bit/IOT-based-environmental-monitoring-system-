@@ -56,7 +56,7 @@ Connect the DHT11 to the NodeMCU as follows:
 | GND (−) | GND | Ground |
 | DATA (S or OUT) | D5 (GPIO14) | Data signal |
 
-##circuit diagram
+## circuit diagram
 
 <img width="580" height="433" alt="image" src="https://github.com/user-attachments/assets/4d20be0b-8c95-46c9-bd90-cea8e0971043" />
 
