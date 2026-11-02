@@ -58,8 +58,7 @@ Connect the DHT11 to the NodeMCU as follows:
 
 ## circuit diagram
 
-<img width="580" height="433" alt="image" src="https://github.com/user-attachments/assets/4d20be0b-8c95-46c9-bd90-cea8e0971043" />
-
+<img width="1536" height="1024" alt="ESP8266 NodeMCU DHT11 Wiring Diagram" src="https://github.com/user-attachments/assets/3cebedcb-1b5e-45a7-88b7-a63611a6caf7" />
 
 Power the sensor from 3V3 unless your module's documentation says it needs 5V. Most DHT11 modules include a pull-up resistor, so no extra resistor is needed. If your module has no pull-up, add a 10 kΩ resistor between DATA and VCC.
 
