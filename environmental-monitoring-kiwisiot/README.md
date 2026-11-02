@@ -283,6 +283,4 @@ The Arduino IDE Serial Monitor shows the readings being sent to KiwisIoT channel
 - **Anomaly detection**: Spot unusual temperature or humidity changes without writing your own analysis code.
 - **Easy sharing**: Share a panel link with classmates, teammates, or a supervisor.
 
-## License
 
-Add your preferred license here (for example MIT).
