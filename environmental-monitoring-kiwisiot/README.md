@@ -56,6 +56,11 @@ Connect the DHT11 to the NodeMCU as follows:
 | GND (−) | GND | Ground |
 | DATA (S or OUT) | D5 (GPIO14) | Data signal |
 
+##circuit diagram
+
+<img width="580" height="433" alt="image" src="https://github.com/user-attachments/assets/4d20be0b-8c95-46c9-bd90-cea8e0971043" />
+
+
 Power the sensor from 3V3 unless your module's documentation says it needs 5V. Most DHT11 modules include a pull-up resistor, so no extra resistor is needed. If your module has no pull-up, add a 10 kΩ resistor between DATA and VCC.
 
 Connect the board to your computer with the micro-USB cable. The red LED on the DHT11 module lights up when it has power.
